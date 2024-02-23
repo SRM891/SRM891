@@ -13,7 +13,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Software Engineer**
-- 🔭 I’m currently working as a full-stack developre.
+- 🔭 I’m currently working as a full-stack developer.
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently advancing my expertise in:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/sunny891/)
