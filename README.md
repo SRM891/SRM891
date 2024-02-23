@@ -44,7 +44,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Spring" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-spring-framework-representational-state-transfer-j-6037231%2F&psig=AOvVaw38nn-LQJBaBNI9q1NOAgdt&ust=1708813117971000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi35om_woQDFQAAAAAdAAAAABAE"></a>
+    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
