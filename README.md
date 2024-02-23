@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, and my u
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently advancing my expertise in:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/sunny891/)
-  - Tools and technologies from like Spring, React, and AWS
+  - Tools and technologies like Spring, React, and AWS
 - 📬 How to reach me: [sumit.dev.fullstack@gmail.com](mailto:sumit.dev.fullstack@gmail.com)
 
 ## 🛠️ My Favourite tools
